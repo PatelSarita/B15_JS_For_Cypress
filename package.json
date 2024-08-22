@@ -1,0 +1,18 @@
+{
+  "name": "b15_js_for_cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarita p",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.13.3"
+  },
+  "dependencies": {
+    "cypress-file-upload": "^5.0.8"
+  }
+}
